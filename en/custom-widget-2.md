@@ -105,10 +105,6 @@ Copy the following HTML code into the widget content field:
     </div>
   </div>
 </div>
-
-<div style="margin-top: 20px;">
-	<a href="https://github.com/delm-app/examples/blob/main/en/custom-widget-2.md" target="_blank" class="button button--secondary">View example on GitHub</a>
-</div>
 ```
 
 ## Date formats
