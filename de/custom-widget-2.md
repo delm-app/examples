@@ -58,7 +58,7 @@ Kopiere den folgenden HTML-Code in das Feld für den Widget-Inhalt:
 <div class="delm-custom-widget-2">
   <div style="margin-bottom: 15px;">
     <div>Voraussichtliche Lieferung</div>
-    <div style="font-size: 26px;margin-top: 5px;">{delivery_date}</div>
+    <div style="font-size: 20px;margin-top: 5px;">{delivery_date}</div>
   </div>
   <div class="delm-custom-widget-2__timeline">
     <div class="delm-custom-widget-2__column" style="text-align: left;">
@@ -71,7 +71,7 @@ Kopiere den folgenden HTML-Code in das Feld für den Widget-Inhalt:
         </div>
         <div class="delm-custom-widget-2__line"></div>
       </div>
-      <div class="delm-custom-widget-2__date">{today}</div>
+      <div class="delm-custom-widget-2__date">Heute</div>
       <div>Bestellt</div>
     </div>
 
@@ -118,4 +118,4 @@ Kopiere den folgenden HTML-Code in das Feld für den Widget-Inhalt:
 | Datumsbereich spätestes Datum | `{D}. {MMM}`            |
 | Einzelnes Datum               | `{D}. {MMM}`            |
 | Morgen                        | `{D}. {MMM}`            |
-| Heute                         | `{D}. {MMM}`            |
+| Heute                         | `Heute`                 |
