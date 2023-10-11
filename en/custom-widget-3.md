@@ -112,5 +112,5 @@ Change the date formats of your widget:
 | Date range earliest | `{MMM} {D}`             |
 | Date range latest   | `{MMM} {D}`             |
 | Single date         | `{MMM} {D}`             |
-| Tomorrow            | `Tomorrow`              |
+| Tomorrow            | `{MMM} {D}`             |
 | Today               | `Today`                 |
