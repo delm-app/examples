@@ -58,7 +58,7 @@ Copy the following HTML code into the widget content field:
 <div class="delm-custom-widget-2">
   <div style="margin-bottom: 15px;">
     <div>Estimated arrival</div>
-    <div style="font-size: 26px;margin-top: 5px;">{delivery_date}</div>
+    <div style="font-size: 20px;margin-top: 5px;">{delivery_date}</div>
   </div>
   <div class="delm-custom-widget-2__timeline">
     <div class="delm-custom-widget-2__column" style="text-align: left;">
@@ -71,7 +71,7 @@ Copy the following HTML code into the widget content field:
         </div>
         <div class="delm-custom-widget-2__line"></div>
       </div>
-      <div class="delm-custom-widget-2__date">{today}</div>
+      <div class="delm-custom-widget-2__date">Today</div>
       <div>Order placed</div>
     </div>
 
@@ -105,6 +105,10 @@ Copy the following HTML code into the widget content field:
     </div>
   </div>
 </div>
+
+<div style="margin-top: 20px;">
+	<a href="https://github.com/delm-app/examples/blob/main/en/custom-widget-2.md" target="_blank" class="button button--secondary">View example on GitHub</a>
+</div>
 ```
 
 ## Date formats
@@ -118,4 +122,4 @@ Change the date formats of your widget:
 | Date range latest   | `{MMM} {D}`             |
 | Single date         | `{MMM} {D}`             |
 | Tomorrow            | `{MMM} {D}`             |
-| Today               | `{MMM} {D}`             |
+| Today               | `Today`                 |
