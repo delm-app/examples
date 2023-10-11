@@ -112,5 +112,5 @@ Kopiere den folgenden HTML-Code in das Feld für den Widget-Inhalt:
 | Datumsbereich frühestes Datum | `{D}. {MMM}`            |
 | Datumsbereich spätestes Datum | `{D}. {MMM}`            |
 | Einzelnes Datum               | `{D}. {MMM}`            |
-| Morgen                        | `Morgen`                |
+| Morgen                        | `{D}. {MMM}`            |
 | Heute                         | `Heute`                 |
