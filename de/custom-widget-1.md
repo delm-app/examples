@@ -38,7 +38,7 @@ Kopiere den folgenden HTML-Code in das Feld für den Widget-Inhalt:
     </svg>
   </div>
   <div class="delm-custom-widget-1__text">
-    <b>Lieferung nach {country_name} {delivery_date}.</b> {order_deadline}
+    <b>Lieferung {delivery_date}.</b> {order_deadline}
   </div>
 </div>
 ```
